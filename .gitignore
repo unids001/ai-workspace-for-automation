@@ -1,0 +1,17 @@
+# Maven/Java build output
+**/target/
+
+# Logs
+*.log
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+
+# Optional local env files
+.env
+.env.*
