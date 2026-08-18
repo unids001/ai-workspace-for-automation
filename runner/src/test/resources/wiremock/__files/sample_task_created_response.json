@@ -1,0 +1,12 @@
+{
+  "id": "501",
+  "title": "{{jsonPath request.body '$.title'}}",
+  "description": "{{jsonPath request.body '$.description'}}",
+  "assignee": "{{jsonPath request.body '$.assignee'}}",
+  "status": "{{jsonPath request.body '$.status'}}",
+  "priority": "MEDIUM",
+  "completed": false,
+  "createdAt": "2026-08-18T12:00:00Z",
+  "updatedAt": "2026-08-18T12:00:00Z"
+}
+

@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/api/v1/tasks/[0-9]+"
+  },
+  "response": {
+    "status": 200,
+    "transformers": ["response-template"],
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "sample_task_response.json",
+    "fixedDelayMilliseconds": 300
+  }
+}
+

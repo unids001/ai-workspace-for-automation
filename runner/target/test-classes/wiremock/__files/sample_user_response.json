@@ -1,0 +1,18 @@
+{
+  "id": "{{request.pathSegments.[3]}}",
+  "username": "user{{request.pathSegments.[3]}}",
+  "name": "User {{request.pathSegments.[3]}}",
+  "active": true,
+  "email": "user{{request.pathSegments.[3]}}@example.com",
+  "role": "qa-tester",
+  "locale": "en-US",
+  "createdAt": "2026-01-10T09:30:00Z",
+  "updatedAt": "2026-08-18T10:15:00Z",
+  "metadata": {
+    "source": "wiremock",
+    "environment": "qa",
+    "requestType": "GET",
+    "version": "1.0",
+    "team": "automation"
+  }
+}

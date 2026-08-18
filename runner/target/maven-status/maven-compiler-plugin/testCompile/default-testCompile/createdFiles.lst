@@ -1,0 +1,12 @@
+com/testing/training/testdata/manager/models/UserTestDataPerEnv$UserTestDataPerEnvBuilder.class
+com/testing/training/stepdefinitions/api/MockUserServerStepDefinitions.class
+com/testing/training/testdata/manager/TestDataLoader.class
+com/testing/training/runner/CucumberRunner.class
+com/testing/training/stepdefinitions/api/TaskServerStepDefinitions.class
+com/testing/training/stepdefinitions/commons/Hooks.class
+com/testing/training/testdata/manager/models/UserTestData$UserTestDataBuilder.class
+com/testing/training/testdata/manager/LocalTestData.class
+com/testing/training/testdata/manager/TestDataLoader$1.class
+com/testing/training/config/GeneralConstants.class
+com/testing/training/testdata/manager/models/UserTestData.class
+com/testing/training/testdata/manager/models/UserTestDataPerEnv.class

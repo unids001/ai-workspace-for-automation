@@ -1,0 +1,12 @@
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/tasks/task/CreateTask.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/tasks/login/Login.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/models/login/request/LoginRequest.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/models/login/response/LoginUserResponse.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/config/MockServerManager.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/models/user/response/GetUserResponse.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/tasks/task/GetTask.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/models/task/request/CreateTaskRequest.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/models/login/response/LoginResponse.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/config/RestServiceConfig.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/models/task/response/TaskResponse.java
+/Users/argenis.torres/ai-workspace-for-automation/api/src/main/java/com/testing/training/tasks/user/GetUser.java

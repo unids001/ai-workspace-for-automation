@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="WireMock Task API" skipped="0" tests="3" time="4.27" timestamp="2026-08-18 05:09:36"><testcase name="Successful task retrieval returns the requested task"/></testsuite>

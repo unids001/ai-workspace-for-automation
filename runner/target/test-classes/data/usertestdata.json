@@ -1,0 +1,41 @@
+[
+  {
+    "userAlias": "Tyrion",
+    "dev": {
+      "username": "tyrion.dev",
+      "password": "654321",
+      "customData": {}
+    },
+    "qa": {
+      "username": "tyrion.qa",
+      "password": "123456",
+      "customData": {}
+    }
+  },
+  {
+    "userAlias": "Jon Snow",
+    "dev": {
+      "username": "jon.dev",
+      "password": "12345abc",
+      "customData": {}
+    },
+    "qa": {
+      "username": "jon.qa",
+      "password": "abc12345",
+      "customData": {}
+    }
+  },
+  {
+    "userAlias": "Daenerys",
+    "dev": {
+      "username": "daenerys.dev",
+      "password": "123-test",
+      "customData": {}
+    },
+    "qa": {
+      "username": "daenerys.qa",
+      "password": "test-123",
+      "customData": {}
+    }
+  }
+]
