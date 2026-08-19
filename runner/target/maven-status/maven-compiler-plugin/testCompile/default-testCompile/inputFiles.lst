@@ -1,9 +1,0 @@
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/stepdefinitions/api/MockUserServerStepDefinitions.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/stepdefinitions/api/TaskServerStepDefinitions.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/testdata/manager/LocalTestData.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/testdata/manager/TestDataLoader.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/runner/CucumberRunner.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/testdata/manager/models/UserTestData.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/config/GeneralConstants.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/testdata/manager/models/UserTestDataPerEnv.java
-/Users/argenis.torres/ai-workspace-for-automation/runner/src/test/java/com/testing/training/stepdefinitions/commons/Hooks.java

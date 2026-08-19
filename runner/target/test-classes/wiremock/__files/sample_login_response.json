@@ -1,7 +1,0 @@
-{
-  "access_token": "mock-token-{{jsonPath request.body '$.username'}}",
-  "token_type": "Bearer",
-  "user": {
-    "username": "{{jsonPath request.body '$.username'}}"
-  }
-}

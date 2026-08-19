@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.testing.training.runner.CucumberRunner
--------------------------------------------------------------------------------
-Tests run: 14, Failures: 0, Errors: 0, Skipped: 11, Time elapsed: 5.828 s -- in com.testing.training.runner.CucumberRunner
